@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "412248407235",
+    "firebase_url": "https://restaurant-f0510.firebaseio.com",
+    "project_id": "restaurant-f0510",
+    "storage_bucket": "restaurant-f0510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412248407235:android:f50c2ad6ed242e21",
+        "android_client_info": {
+          "package_name": "com.example.acer.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412248407235-n17ik29pbhsdvsap6vc0a4nou7j2dbr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPl52KF3zLg990RTasMLxhq6Wrg10wghU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
